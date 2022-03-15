@@ -1,3 +1,3 @@
 # REACT_Mapping
 ## <ins>Re</ins>petitive <ins>Act</ins>ivity (REACT) Mapping of Atrial Tachyarrhythmias
-Repository contains codes to run REACT mapping algorithm. REACT maps are a novel approach to identify organized islands in atrial fibrillation.
+Repository contains codes to compute REACT maps from input electrgram signals. REACT mapping is a novel approach to identify islands with organized electrograms in atrial fibrillation.
