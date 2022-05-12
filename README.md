@@ -8,7 +8,7 @@ Code execution syntax: Generate_REACT_Map(offset, egmMat, rhythmType, CL, chambe
 
 offset: Basket catheter offset
 
-egmMat: 64xtime matrix of electrograms
+egmMat: [time x 64] matrix of electrograms
 
 rhythmType: 'AF' or 'AT'
 
