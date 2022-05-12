@@ -7,7 +7,11 @@ DETAILED README IN PROGRESS..
 Code execution syntax: Generate_REACT_Map(offset, egmMat, rhythmType, CL, chamber)
 
 offset: Basket catheter offset
+
 egmMat: 64xtime matrix of electrograms
+
 rhythmType: 'AF' or 'AT'
+
 CL: Cycle length value
+
 Chamber: 1 for LA and 0 for RA
