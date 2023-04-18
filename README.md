@@ -10,7 +10,7 @@ Code execution syntax: Generate_REACT_Map(offset, egmMat, rhythmType, CL, chambe
 
 offset: Basket catheter offset
 
-egmMat: [time x 64] matrix of electrograms *consider truncating time to as less samples as possible (4000 samples takes ~20 sec in parallel mode)*
+egmMat: [time x 64] matrix of electrograms - *consider truncating time to as less samples as possible (4000 samples takes ~20 sec in parallel mode)*
 
 rhythmType: 'AF' or 'AT'
 
