@@ -26,7 +26,7 @@ parallelProcessing: 1 for yes and 0 for no
 
 tsegment: timesamples range
 
-Example usage: Generate_REACT_Map_Grid('A', EGM(100:3400), 'AF', [], 1, 1, 100:3400)
+Example usage: Generate_REACT_Map('A', EGM(100:3400), 'AF', [], 1, 1, 100:3400)
 
 ![Picture1](https://github.com/NarayanLab/REACT_Mapping/assets/69654253/8dbf1025-05a5-4d99-87f3-67b895bb1a92)
 
