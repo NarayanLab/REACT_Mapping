@@ -28,4 +28,5 @@ tsegment: timesamples range
 
 Example usage: Generate_REACT_Map_Grid('A', EGM(100:3400), 'AF', [], 1, 1, 100:3400)
 
-[Revised Figure 2_FINAL.pdf](https://github.com/NarayanLab/REACT_Mapping/files/12062851/Revised.Figure.2_FINAL.pdf)
+![Picture1](https://github.com/NarayanLab/REACT_Mapping/assets/69654253/8dbf1025-05a5-4d99-87f3-67b895bb1a92)
+
