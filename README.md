@@ -5,6 +5,7 @@ Repository contains codes to compute REACT maps from input electrgram signals. R
 ### Full paper: https://academic.oup.com/europace/advance-article/doi/10.1093/europace/euad055/7080278 
 
 Update on 04/17/2023: New version has an option to run it in serial or parallel.
+
 Update on 07/15/2023: Option to automatically calculate cycle length (algorithm uses autocorrelation)
 
 ### Code execution syntax: 
@@ -27,4 +28,4 @@ tsegment: timesamples range
 
 Example usage: Generate_REACT_Map_Grid('A', EGM(100:3400), 'AF', [], 1, 1, 100:3400)
 
-
+[Revised Figure 2_FINAL.pdf](https://github.com/NarayanLab/REACT_Mapping/files/12062851/Revised.Figure.2_FINAL.pdf)
